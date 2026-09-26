@@ -92,7 +92,6 @@ Kullanıcının rolüne göre farklı uygulama akışları ve erişim yetkileri 
 Backend bir **cloud ortamına deploy edilmiş** ve Flutter mobil uygulaması ile REST API üzerinden iletişim sağlayacak şekilde yapılandırılmıştır.
 
 ## Proje Ekran Görüntüleri
-## Proje Ekran Görüntüleri
 
 <p align="center">
   <b>Giriş Ekranı</b><br>
