@@ -162,9 +162,9 @@ Backend bir **cloud ortamına deploy edilmiş** ve Flutter mobil uygulaması ile
 </p>
 <p align="center">
   <b>Müşteri Qr Sipariş Menü</b><br>
-  <img src="screenshots/customer_menu.jpg" width="200">
-  <img src="screenshots/customer_menu_placeanorder.jpg" width="200">
-  <img src="screenshots/customer_menu_orderreceived.jpg" width="200">
+  <img src="screenshots/customer_menu.png" width="200">
+  <img src="screenshots/customer_menu_placeanorder.png" width="200">
+  <img src="screenshots/customer_menu_orderreceived.png" width="200">
 </p>
 ## Proje Durumu
 
